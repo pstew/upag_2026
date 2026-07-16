@@ -1,0 +1,21 @@
+Sample number	expression_column	group	genotype	condition	replicate	color
+1	KO_TP_1	KO_TP	KO	TP	1	skyblue
+2	KO_TP_2	KO_TP	KO	TP	2	skyblue
+3	KO_TP_3	KO_TP	KO	TP	3	skyblue
+4	KO_TP_4	KO_TP	KO	TP	4	skyblue
+5	KO_TP_5	KO_TP	KO	TP	5	skyblue
+6	KO_baseline_1	KO_baseline	KO	baseline	1	salmon
+7	KO_baseline_2	KO_baseline	KO	baseline	2	salmon
+8	KO_baseline_3	KO_baseline	KO	baseline	3	salmon
+9	KO_baseline_4	KO_baseline	KO	baseline	4	salmon
+10	KO_baseline_5	KO_baseline	KO	baseline	5	salmon
+11	WT_TP_1	WT_TP	WT	TP	1	palegreen
+12	WT_TP_2	WT_TP	WT	TP	2	palegreen
+13	WT_TP_3	WT_TP	WT	TP	3	palegreen
+14	WT_TP_4	WT_TP	WT	TP	4	palegreen
+15	WT_TP_5	WT_TP	WT	TP	5	palegreen
+16	WT_baseline_1	WT_baseline	WT	baseline	1	plum
+17	WT_baseline_2	WT_baseline	WT	baseline	2	plum
+18	WT_baseline_3	WT_baseline	WT	baseline	3	plum
+19	WT_baseline_4	WT_baseline	WT	baseline	4	plum
+20	WT_baseline_5	WT_baseline	WT	baseline	5	plum
