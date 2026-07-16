@@ -1,5 +1,9 @@
 ## UPAG Proteomics Data Analysis Workshop July 2026
 
+### Minute card (Google Form)
+
+https://forms.gle/6U1AXsZzDVjWDnNB6
+
 ### Slido link:
 
 https://app.sli.do/event/a8YC6SE7EhBwaoa1NQzWJb
