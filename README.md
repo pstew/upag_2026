@@ -1,5 +1,9 @@
 ## UPAG Proteomics Data Analysis Workshop July 2026
 
+### Slido link:
+
+https://app.sli.do/event/a8YC6SE7EhBwaoa1NQzWJb
+
 ### Link to this Repository:
 
 https://github.com/pstew/upag_2026
